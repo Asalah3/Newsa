@@ -12,6 +12,7 @@ News App
 
 <h2>Application Features :</h2>
 
+
 - User could browse Top Headings Articles.
 
 - User can search for a specific Article.
