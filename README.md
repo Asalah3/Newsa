@@ -11,17 +11,18 @@ News App
 <hr>
 
 <h2>Application Features :</h2>
--User could browse Top Headings Articles.
+- User could browse Top Headings Articles.
 
--User can search for a specific Article.
+- User can search for a specific Article.
 
--User can add Article to Favourite list and search for any Article in the Favourite list product.
+- User can add Article to Favourite list and search for any Article in the Favourite list product.
 
--User can switch to/from Dark mode. 
+- User can switch to/from Dark mode. 
 
--User can Display Article Details and continue reading the article in the the web Browser. 
+- User can Display Article Details and continue reading the article in the the web Browser. 
 
 <h2>Tools </h2>
+
 - Swift
 
 - MVVM Desgin pattern
